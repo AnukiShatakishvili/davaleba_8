@@ -1,0 +1,32 @@
+h1 {
+		color: darkred;
+		font-size: 30px;
+	}
+	h3 {
+		color: indianred;
+		font-size: 30px
+
+	}
+	p {
+		color: sandybrown; 
+		font-size: 20px;
+	}
+	footer {
+		color: #ffffff;
+		background-color: #24252a;
+		font-size: 40px
+	} 
+	.red {
+		color: grey ;
+		font-style: italic;
+	}
+	#logo {
+		width: 200px;
+	}
+	#first {
+		height: 600px;
+	}
+	#second {
+		width: 800px;
+	}
+	
